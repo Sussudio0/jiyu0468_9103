@@ -1,4 +1,5 @@
 # jiyu0468_9103
+#quiz 8
 ##part 1
 Commonly found in design projects and video games like "Monument Valley," isometric projection is one motivating imaging method.  This method allows for clear and aesthetically pleasing depictions of difficult constructions by producing a three-dimensional look on a two-dimensional plane free of perspective distortion.  I want to include isometric projection into my work to improve spatial awareness and add a contemporary, neat look.  Its capacity to show several sides of an object at once fits very nicely the emphasis of the assignment on clarity and creative graphic presentation.
 ![Alt text](image/64.jpg)
